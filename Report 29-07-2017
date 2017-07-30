@@ -1,0 +1,45 @@
+BANKING SYSTEM =>BY :  NINAD, MONIL, VARUN, HENIL
+-------------------------------------------------
+REPORT DATE : 29/07/2017 
+-------------------------------------------------
+->activity done:
+----------------
+->visited SBI bank and surfed online SBI
+->gained knowledge about how account and its details work : 
+	-access to the persons are restrected and reserved
+	-the bank has generally account statement or summary, details of epmloyee, customer, details of rates for FDs-Loan-MoneyTransfer etc
+	-customer has access to their account and details when the login to the system
+	-the employee can access any account of customer by using biomatric scanner to login to the main server database
+
+
+->services provided by bank:
+---------------------------------------------------
+->access the account and change details of userid and pssword
+->transfer money within same bank or other bank
+->can allow to check transctions done by customer by date upto 6 month and by year in different format of pdf or excel
+->allows to pay taxes online and offline to
+->allows to recharge or pay bills of different things such as telephone, gas, electricity, water 
+->gives information about current market details of rates of different in bank products
+
+->account type:
+---------------
+->Current Account
+->Savings Account
+->Zero Balance Account
+->Fix Deposite Account
+->Personal Providant Fund Account
+
+->CAN BE ADDED:
+---------------
+ **->online account opening at any branch
+ **->NO SURCAMSTANCES OF UNPIAD_LOAN to be created by background check and full power of attorney
+ **->transferring home branch account to other branch of bank with out giving closing account application to home branch
+ ->hospital bill - medicine bill
+ ->school and college fees
+ ->online checkbook issue
+ ->re-issuing atm,credit,debit,e-card,visa card to be done online
+ ->attesting FDs online by branch where it was issued
+ ->varification of all the details to be submitted online instade of offline
+ ->increasing the limit of transcations to be done online
+ ->multiple rate of intrest over account amount maintained
+ ->if an account is transfered to another branch of bank then automatically close the account from the home branch
